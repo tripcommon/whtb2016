@@ -1,18 +1,7 @@
-name: "Dactyl"
+name: "Where Have They Been"
 permalink: pretty
-author: 
-email:
-url: 
+author: Kennedy
+email: kennedysgarage@gmail.com
+url:
 
 exclude: ["CNAME","editorconfig.txt","Gemfile","Gemfile.lock","README.md", "RAKEFILE"]
-
-assets:
-  dirname: assets
-  baseurl: /assets/
-  sources:
-    - _assets/fonts
-    - _assets/images
-    - _assets/javascripts
-    - _assets/stylesheets
-  js_compressor: uglifier
-  css_compressor: sass
