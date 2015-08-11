@@ -1,0 +1,106 @@
+@import "compass";
+@import "reset.css.scss";
+@import "variables.css.scss";
+@import "fontface.css.scss";
+@import "typography.css.scss";
+@import "grid.css.scss";
+/* ========================================================= Main ===*/
+html, body{
+    background-color: #f9f9f9;
+    color: #373737;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.45;
+    width: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+/* ========================================================= Header ===*/
+header{
+  margin: 0 0 30px;
+}
+/* ------
+-- Nav --
+------ */
+nav{
+  ul{
+    li{
+      a{
+
+      }
+    }
+  }
+}
+/* ========================================================= Main ===*/
+.main{
+  position: relative;
+  padding: 20px 0;
+}
+.main h2{
+  font-size: 30px;
+  margin: 0 30px 40px;
+  text-align: center;
+}
+.primary img{
+  box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+  margin: 0 0 30px;
+}
+.prev{
+  position: absolute;
+  left: 0;
+  top: 23px;
+}
+.next{
+  position: absolute;
+  right: 0;
+  top: 23px;
+}
+/* ========================================================= Footer ===*/
+.candidates{
+  border-top: 1px solid #ccc;
+  margin: 20px 0 0;
+  padding: 20px 0 0;
+}
+.candidates h4{
+  color: #666;
+  font-size: 20px;
+  margin: 0 0 20px 0;
+}
+.candidates ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.candidates li{
+  float: left;
+  margin: 0 0 30px;
+  padding: 0 1%;
+  width: 10%;
+}
+footer{
+
+}
+/* ========================================================= Respond ===*/
+@media all and (min-width: 41em){
+  body{font-size: 1.125em;}
+  .container{
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  .row{
+    margin-left: -1em;
+    margin-right: -1em;
+  }
+  .col-12 { width: 100%; }
+  .col-9 { width: 75%; }
+  .col-8 { width: 66.7%; }
+  .col-6 { width: 50%; }
+  .col-4 { width: 33.3%; }
+  .col-3 { width: 25%; }
+}
+@media all and (min-width: 960px){
+
+}
