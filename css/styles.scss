@@ -77,8 +77,11 @@ nav{
   padding: 0 1%;
   width: 10%;
 }
-footer{
-
+.note{
+  color: #ccc;
+  font-size: 14px;
+  margin: 20px 0 40px;
+  text-align: center;
 }
 /* ========================================================= Respond ===*/
 @media all and (min-width: 41em){
