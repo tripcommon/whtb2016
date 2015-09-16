@@ -55,6 +55,18 @@ nav{
   right: 0;
   top: 23px;
 }
+/* ========================================================= Map ===*/
+.candidates-nav{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  li{
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+  }
+}
 /* ========================================================= Footer ===*/
 .candidates{
   border-top: 1px solid #ccc;
