@@ -3,6 +3,5 @@ permalink: pretty
 author: Kennedy
 email: kennedysgarage@gmail.com
 url:
-baseurl: /whtb2016
 
 exclude: ["CNAME","editorconfig.txt","Gemfile","Gemfile.lock","README.md", "RAKEFILE"]
