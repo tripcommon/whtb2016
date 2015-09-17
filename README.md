@@ -5,7 +5,7 @@ Do people who have traveled more make better leaders? Do we view a leader’s fo
 ### Presented by [Hitlist](http://www.hitlistapp.com)
 
 #### Notes
-* To preview the site locally, run ```jekyll serve --baseurl ''```
+* To preview the site locally, run ```jekyll serve --baseurl ''```. You might need to run `bundle install` first.
 * View it live [http://gop2016.hitlistapp.com/](http://gop2016.hitlistapp.com/)
 * Currently using [http://datamaps.github.io/](http://datamaps.github.io/) for the maps.
 * [Data source](https://docs.google.com/spreadsheets/d/1P0-ZDxl7VICq9jd9AVsS-UwDWw5mZbbdJjbYkPCjXHc/edit)
