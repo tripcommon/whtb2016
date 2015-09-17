@@ -4,7 +4,7 @@
 /* ========================================================= Main ===*/
 html, body{
     background-color: #f9f9f9;
-    background-color: #23272f;
+    background-color: #22262e;
     color: #373737;
     font-size: 1em;
     font-weight: 400;
@@ -61,11 +61,38 @@ nav{
   list-style: none;
   margin: 0;
   padding: 0;
+  position: relative;
+  z-index: 1941;
   li{
     float: left;
     margin: 0;
     padding: 0;
-    width: 10%;
+    width: 9%;
+    a{
+      display: block;
+      padding: 0 8%;
+      img{
+        border: 1px solid #22262e;
+      }
+    }
+    &:hover{
+      img{
+        border: 1px solid red;
+        border-radius: 80px;
+      }
+    }
+  }
+  .active{
+    img{
+      border: 1px solid red;
+      border-radius: 80px;
+    }
+  }
+}
+#map{
+  width: 100%;
+  svg{
+    left: 0;
   }
 }
 /* ========================================================= Footer ===*/
