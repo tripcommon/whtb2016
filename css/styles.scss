@@ -6,6 +6,7 @@ html, body{
     background-color: #f9f9f9;
     background-color: #22262e;
     color: #373737;
+    font-family: 'Work Sans', sans-serif;
     font-size: 1em;
     font-weight: 400;
     line-height: 1.45;
@@ -18,7 +19,11 @@ html, body{
 }
 /* ========================================================= Header ===*/
 header{
-  margin: 0 0 30px;
+  padding: 60px 0 60px;
+  img{
+    display: block;
+    margin: 0 auto;
+  }
 }
 /* ------
 -- Nav --
@@ -72,20 +77,22 @@ nav{
       display: block;
       padding: 0 8%;
       img{
-        border: 1px solid #22262e;
+        border: 2px solid #22262e;
       }
     }
     &:hover{
       img{
-        border: 1px solid red;
+        border: 2px solid #F44336;
         border-radius: 80px;
+        box-shadow: 0 1px 5px rgba(0,0,0,0.7);
       }
     }
   }
   .active{
     img{
-      border: 1px solid red;
+      border: 2px solid #F44336;
       border-radius: 80px;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.7);
     }
   }
 }
@@ -93,6 +100,51 @@ nav{
   width: 100%;
   svg{
     left: 0;
+  }
+}
+/* ========================================================= Source ===*/
+.source{
+  background-color: #fff;
+  padding: 70px 0;
+  h2{
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0 0 20px;
+  }
+  h3{
+    font-size: 18px;
+    margin: 0 0 10px;
+  }
+  ul{
+    background-color: #f6f6f8;
+    list-style: none;
+    margin: 0 0 20px;
+    padding: 0;
+    li{
+      margin: 0;
+      padding: 5px 10px;
+      &:nth-child(even){
+        background-color: #f2f3f5;
+      }
+    }
+  }
+  p{
+    color: #ccc;
+    font-size: 12px;
+    a{
+      color: #aaa;
+    }
+  }
+}
+.credit{
+  background-color: #f7f7f7;
+  padding: 20px 0;
+  text-align: center;
+  h2{
+    display: inline-block;
+    color: #999;
+    font-size: 16px;
   }
 }
 /* ========================================================= Footer ===*/
