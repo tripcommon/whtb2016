@@ -7,6 +7,6 @@ Do people who have traveled more make better leaders? Do we view a leader’s fo
 #### Notes
 * To preview the site locally, run ```jekyll serve --baseurl ''```
 * View it live [http://gop2016.hitlistapp.com/map/](http://gop2016.hitlistapp.com/map/)
-* Currently using [jVectorMap](http://jvectormap.com/) for the maps.
+* Currently using [http://datamaps.github.io/](http://datamaps.github.io/) for the maps.
 * [Data source](https://docs.google.com/spreadsheets/d/1P0-ZDxl7VICq9jd9AVsS-UwDWw5mZbbdJjbYkPCjXHc/edit)
 * Used [Exporting a Google Spreadsheet as JSON](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) to export the data into JSON
