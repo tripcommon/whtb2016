@@ -28,6 +28,7 @@ $("#gop").on("click", function(){
     data = json;
     // console.log(data);
     visualizeit(data, map);
+    loadsources(data);
   });
   $(this).addClass('active');
 

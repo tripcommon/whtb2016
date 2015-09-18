@@ -19,7 +19,7 @@ html, body{
 }
 /* ========================================================= Header ===*/
 header{
-  padding: 60px 0 60px;
+  padding: 60px 0 0px;
   img{
     display: block;
     margin: 0 auto;
@@ -67,22 +67,31 @@ nav{
 }
 .candidates{
   list-style: none;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   position: relative;
+  bottom: -40px;
   z-index: 1941;
+  max-width: 1000px;
   li{
     cursor: pointer;
     float: left;
     margin: 0;
     padding: 0;
-    width: 9%;
+    width: 16%;
     span{
       display: block;
+      margin: 0 0 5px;
       padding: 0 8%;
       img{
         border: 2px solid #22262e;
       }
+    }
+    .name{
+      color: rgba(255,255,255,0.7);
+      display: block;
+      font-size: 12px;
+      text-align: center;
     }
     &:hover{
       img{
@@ -106,16 +115,6 @@ nav{
     left: 0;
   }
 }
-.tooltip{ background-color:rgba(68,136,187,0.5);;
-          margin: 10px;
-          height: 50px;
-          width: 150px;
-          padding-left: 10px;
-          padding-top: 10px;
-    -webkit-border-radius:10px;
-    -moz-border-radius:10px;
-    border-radius:10px;
-        }
 /* ========================================================= Source ===*/
 .source{
   background-color: #fff;
@@ -187,7 +186,13 @@ nav{
   .col-6 { width: 50%; }
   .col-4 { width: 33.3%; }
   .col-3 { width: 25%; }
+
 }
 @media all and (min-width: 960px){
-
+  .candidates{
+    bottom: -60px;
+    li{
+      width: 9%;
+    }
+  }
 }
