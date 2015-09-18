@@ -3,7 +3,7 @@ var map = new Datamap({
     responsive: true,
     fills: {
         defaultFill: '#424651',
-        authorHasTraveledTo: "#2196F3"
+        authorHasTraveledTo: "#F44336"
     },
     geographyConfig: {
         highlightOnHover: false,
