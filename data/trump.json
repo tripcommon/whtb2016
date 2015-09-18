@@ -43,5 +43,105 @@
       "country":"India",
       "code":"IND",
       "source":"http://www.forbes.com/sites/naazneenkarmali/2014/08/19/donald-trump-descends-on-india/"
+   },
+   {
+       "country": "France",
+       "code":"FRA",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Spain",
+       "code":"ESP",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "England",
+       "code":"GBR",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Scotland",
+       "code":"SCT",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Ireland",
+       "code":"IRL",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Australia",
+       "code":"AUS",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "New Zealand",
+       "code":"NZL",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Qatar",
+       "code":"",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Dubai",
+       "code":"QAT",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Turkey",
+       "code":"TUR",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Japan",
+       "code":"JPN",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "India",
+       "code":"IND",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Mexico",
+       "code":"MEX",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Dominican Republican",
+       "code":"DOM",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Panama",
+       "code":"PAN",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Canada",
+       "code":"CAN",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Brazil",
+       "code":"BRA",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Ecuador",
+       "code":"ECU",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Hong Kong",
+       "code":"HKG",
+       "source": "Donal Trump campaign staff"
+   },
+   {
+       "country": "Macau",
+       "code":"CHN",
+       "source": "Donal Trump campaign staff"
    }
 ]
