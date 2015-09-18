@@ -57,6 +57,7 @@ $("#carson").on("click", function(){
     data = json;
     // console.log(data);
     visualizeit(data, map);
+    loadsources(data);
   });
 });
 
@@ -69,6 +70,7 @@ $("#christie").on("click", function(){
     data = json;
     // console.log(data);
     visualizeit(data, map);
+    loadsources(data);
   });
 });
 
@@ -81,6 +83,7 @@ $("#cruz").on("click", function(){
     data = json;
     // console.log(data);
     visualizeit(data, map);
+    loadsources(data);
   });
 });
 
@@ -93,6 +96,7 @@ $("#huckabee").on("click", function(){
     data = json;
     // console.log(data);
     visualizeit(data, map);
+    loadsources(data);
   });
 });
 
@@ -105,6 +109,7 @@ $("#kasich").on("click", function(){
     data = json;
     // console.log(data);
     visualizeit(data, map);
+    loadsources(data);
   });
 });
 
@@ -117,6 +122,7 @@ $("#paul").on("click", function(){
     data = json;
     // console.log(data);
     visualizeit(data, map);
+    loadsources(data);
   });
 });
 
@@ -129,6 +135,7 @@ $("#rubio").on("click", function(){
     data = json;
     // console.log(data);
     visualizeit(data, map);
+    loadsources(data);
   });
 });
 
@@ -141,6 +148,7 @@ $("#trump").on("click", function(){
     data = json;
     // console.log(data);
     visualizeit(data, map);
+    loadsources(data);
   });
 });
 
@@ -153,6 +161,7 @@ $("#walker").on("click", function(){
     data = json;
     // console.log(data);
     visualizeit(data, map);
+    loadsources(data);
   });
 });
 
@@ -189,14 +198,15 @@ function loadsources(data) {
 
   $('#source').html("");
 
-  var lineitems = "";
+  var listitems = "";
   _.map(data, function(value){
     console.log(value.source);
-    var lineitem = "<li>" + "value.source" + "</li>";
-    listitems = listitems + listitem;
+    if(value.source){
+      var listitem = "<li>" + value.source + "</li>";
+      listitems = listitems + listitem;
+    }
   });
 
-  var lineitems = "<li>Hello</li><li>Hello</li><li>Hello</li>";
-
+  $('#source').html(listitems);
 
 };
