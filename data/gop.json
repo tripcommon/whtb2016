@@ -1,5 +1,9 @@
 [
-   {"code":"USA"},
+   {
+     "code":"USA",
+     "country":"GOP",
+     "source":"You will see the soure of each candidates when you click on them."
+   },
    {
       "code":"ISR"
    },
