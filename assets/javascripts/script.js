@@ -98,6 +98,22 @@ $("#cruz").on("click", function(){
 
 });
 
+$("#fiorina").on("click", function(){
+  // console.log(this);
+  var data; // a global
+  $('.candidates li.active').removeClass('active');
+
+  d3.json("/data/fiorina.json", function(error, json) {
+    if (error) return console.warn(error);
+    data = json;
+    // console.log(data);
+    visualizeit(data, map);
+    loadsources(data);
+  });
+  $(this).addClass('active');
+
+});
+
 $("#huckabee").on("click", function(){
   // console.log(this);
   var data; // a global
