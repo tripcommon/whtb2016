@@ -123,15 +123,19 @@ nav{
     margin: 0 0 10px;
   }
   ul{
-    background-color: #f6f6f8;
+    background-color: #f7f7f7;
     list-style: none;
     margin: 0 0 20px;
     padding: 0;
     li{
       margin: 0;
       padding: 5px 10px;
+      word-wrap: break-word;
       &:nth-child(even){
-        background-color: #f2f3f5;
+        background-color: #eee;
+      }
+      span{
+        background-color: #ffffa9;
       }
     }
   }

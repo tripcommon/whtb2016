@@ -1,13 +1,9 @@
-$(document).ready(function(){
-
-});
-
 var map = new Datamap({
     element: document.getElementById('map'),
     responsive: true,
     fills: {
         defaultFill: '#424651',
-        authorHasTraveledTo: "#FF0000"
+        authorHasTraveledTo: "#2196F3"
     },
     geographyConfig: {
         highlightOnHover: false,
@@ -25,6 +21,7 @@ var currentCountries = {};
 $("#gop").on("click", function(){
   // console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/gop.json", function(error, json) {
     if (error) return console.warn(error);
@@ -32,12 +29,14 @@ $("#gop").on("click", function(){
     // console.log(data);
     visualizeit(data, map);
   });
+  $(this).addClass('active');
 
 });
 
 $("#bush").on("click", function(){
   // console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/bush.json", function(error, json) {
     if (error) return console.warn(error);
@@ -46,11 +45,14 @@ $("#bush").on("click", function(){
     visualizeit(data, map);
     loadsources(data);
   });
+  $(this).addClass('active');
+
 });
 
 $("#carson").on("click", function(){
   // console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/carson.json", function(error, json) {
     if (error) return console.warn(error);
@@ -59,11 +61,14 @@ $("#carson").on("click", function(){
     visualizeit(data, map);
     loadsources(data);
   });
+  $(this).addClass('active');
+
 });
 
 $("#christie").on("click", function(){
   // console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/christie.json", function(error, json) {
     if (error) return console.warn(error);
@@ -72,11 +77,14 @@ $("#christie").on("click", function(){
     visualizeit(data, map);
     loadsources(data);
   });
+  $(this).addClass('active');
+
 });
 
 $("#cruz").on("click", function(){
   // console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/cruz.json", function(error, json) {
     if (error) return console.warn(error);
@@ -85,11 +93,14 @@ $("#cruz").on("click", function(){
     visualizeit(data, map);
     loadsources(data);
   });
+  $(this).addClass('active');
+
 });
 
 $("#huckabee").on("click", function(){
   // console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/huckabee.json", function(error, json) {
     if (error) return console.warn(error);
@@ -98,11 +109,14 @@ $("#huckabee").on("click", function(){
     visualizeit(data, map);
     loadsources(data);
   });
+  $(this).addClass('active');
+
 });
 
 $("#kasich").on("click", function(){
   // console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/kasich.json", function(error, json) {
     if (error) return console.warn(error);
@@ -111,11 +125,14 @@ $("#kasich").on("click", function(){
     visualizeit(data, map);
     loadsources(data);
   });
+  $(this).addClass('active');
+
 });
 
 $("#paul").on("click", function(){
   // console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/paul.json", function(error, json) {
     if (error) return console.warn(error);
@@ -124,11 +141,14 @@ $("#paul").on("click", function(){
     visualizeit(data, map);
     loadsources(data);
   });
+  $(this).addClass('active');
+
 });
 
 $("#rubio").on("click", function(){
   // console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/rubio.json", function(error, json) {
     if (error) return console.warn(error);
@@ -137,11 +157,14 @@ $("#rubio").on("click", function(){
     visualizeit(data, map);
     loadsources(data);
   });
+  $(this).addClass('active');
+
 });
 
 $("#trump").on("click", function(){
   console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/trump.json", function(error, json) {
     if (error) return console.warn(error);
@@ -150,11 +173,14 @@ $("#trump").on("click", function(){
     visualizeit(data, map);
     loadsources(data);
   });
+  $(this).addClass('active');
+
 });
 
 $("#walker").on("click", function(){
   // console.log(this);
   var data; // a global
+  $('.candidates-nav li.active').removeClass('active');
 
   d3.json("/data/walker.json", function(error, json) {
     if (error) return console.warn(error);
@@ -163,6 +189,8 @@ $("#walker").on("click", function(){
     visualizeit(data, map);
     loadsources(data);
   });
+  $(this).addClass('active');
+
 });
 
 function visualizeit(data, map) {
@@ -200,9 +228,10 @@ function loadsources(data) {
 
   var listitems = "";
   _.map(data, function(value){
-    console.log(value.source);
+    // console.log(value.source);
+    // console.log(value.country);
     if(value.source){
-      var listitem = "<li>" + value.source + "</li>";
+      var listitem = "<li>" + "<strong>" + value.country + "</strong>" + " - " + value.source + "</li>";
       listitems = listitems + listitem;
     }
   });
