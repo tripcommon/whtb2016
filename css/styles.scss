@@ -16,6 +16,17 @@ html, body{
     -moz-osx-font-smoothing: grayscale;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
+
+    -webkit-animation: 2.5s ease;
+  	-moz-animation: 2.5s ease;
+  	-ms-animation: 2.5s ease;
+  	-o-animation: 2.5s ease;
+  	animation: 2.5s ease;
+  	-webkit-animation-name: fadeIn;
+  	-moz-animation-name: fadeIn;
+  	-ms-animation-name: fadeIn;
+  	-o-animation-name: fadeIn;
+  	animation-name: fadeIn;
 }
 /* ========================================================= Header ===*/
 header{
@@ -38,29 +49,7 @@ nav{
   }
 }
 /* ========================================================= Main ===*/
-.main{
-  position: relative;
-  padding: 20px 0;
-}
-.main h2{
-  font-size: 30px;
-  margin: 0 30px 40px;
-  text-align: center;
-}
-.primary img{
-  box-shadow: 0 1px 3px rgba(0,0,0,0.4);
-  margin: 0 0 30px;
-}
-.prev{
-  position: absolute;
-  left: 0;
-  top: 23px;
-}
-.next{
-  position: absolute;
-  right: 0;
-  top: 23px;
-}
+
 /* ========================================================= Map ===*/
 #map{
   min-height: 300px;
@@ -206,4 +195,29 @@ nav{
       width: 9%;
     }
   }
+}
+
+@-webkit-keyframes fadeIn {
+	0% {opacity: 0;}
+	100% {opacity: 1;}
+}
+
+@-moz-keyframes fadeIn {
+	0% {opacity: 0;}
+	100% {opacity: 1;}
+}
+
+@-ms-keyframes fadeIn {
+	0% {opacity: 0;}
+	100% {opacity: 1;}
+}
+
+@-o-keyframes fadeIn {
+	0% {opacity: 0;}
+	100% {opacity: 1;}
+}
+
+@keyframes fadeIn {
+	0% {opacity: 0;}
+	100% {opacity: 1;}
 }
