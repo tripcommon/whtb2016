@@ -162,6 +162,7 @@ function visualizeit(data, map) {
   var codes = {};
   for(i = 0; i < data.length; i++) {
     var country = data[i];
+    console.log(country['code']);
     codes[country['code']] = {fillKey: 'authorHasTraveledTo'};
   }
 
@@ -174,10 +175,13 @@ function visualizeit(data, map) {
 
 function resetit(map) {
 
-  _.forEach(currentCountries, function(vaule,key) {
-    currentCountries[key]={fillKey: defaultFill};
+  _.forEach(currentCountries, function(value,key) {
+    console.log(key);
+    currentCountries['key'] = {fillKey: 'defaultFill'};
   });
 
-  map.updateChoropleth(codes);
+  if (!_.isEmpty(currentCountries)) {
+    map.updateChoropleth(currentCountries);
+  }
 
 };
