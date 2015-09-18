@@ -65,7 +65,7 @@ nav{
 #map{
   min-height: 300px;
 }
-.candidates-nav{
+.candidates{
   list-style: none;
   margin: 0;
   padding: 0;
@@ -169,27 +169,7 @@ nav{
   }
 }
 /* ========================================================= Footer ===*/
-.candidates{
-  border-top: 1px solid #ccc;
-  margin: 20px 0 0;
-  padding: 20px 0 0;
-}
-.candidates h4{
-  color: #666;
-  font-size: 20px;
-  margin: 0 0 20px 0;
-}
-.candidates ul{
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.candidates li{
-  float: left;
-  margin: 0 0 30px;
-  padding: 0 1%;
-  width: 10%;
-}
+
 /* ========================================================= Respond ===*/
 @media all and (min-width: 41em){
   body{font-size: 1.125em;}

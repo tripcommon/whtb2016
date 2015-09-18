@@ -21,7 +21,7 @@ var currentCountries = {};
 $("#gop").on("click", function(){
   // console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/gop.json", function(error, json) {
     if (error) return console.warn(error);
@@ -36,7 +36,7 @@ $("#gop").on("click", function(){
 $("#bush").on("click", function(){
   // console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/bush.json", function(error, json) {
     if (error) return console.warn(error);
@@ -52,7 +52,7 @@ $("#bush").on("click", function(){
 $("#carson").on("click", function(){
   // console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/carson.json", function(error, json) {
     if (error) return console.warn(error);
@@ -68,7 +68,7 @@ $("#carson").on("click", function(){
 $("#christie").on("click", function(){
   // console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/christie.json", function(error, json) {
     if (error) return console.warn(error);
@@ -84,7 +84,7 @@ $("#christie").on("click", function(){
 $("#cruz").on("click", function(){
   // console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/cruz.json", function(error, json) {
     if (error) return console.warn(error);
@@ -100,7 +100,7 @@ $("#cruz").on("click", function(){
 $("#huckabee").on("click", function(){
   // console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/huckabee.json", function(error, json) {
     if (error) return console.warn(error);
@@ -116,7 +116,7 @@ $("#huckabee").on("click", function(){
 $("#kasich").on("click", function(){
   // console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/kasich.json", function(error, json) {
     if (error) return console.warn(error);
@@ -132,7 +132,7 @@ $("#kasich").on("click", function(){
 $("#paul").on("click", function(){
   // console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/paul.json", function(error, json) {
     if (error) return console.warn(error);
@@ -148,7 +148,7 @@ $("#paul").on("click", function(){
 $("#rubio").on("click", function(){
   // console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/rubio.json", function(error, json) {
     if (error) return console.warn(error);
@@ -164,7 +164,7 @@ $("#rubio").on("click", function(){
 $("#trump").on("click", function(){
   console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/trump.json", function(error, json) {
     if (error) return console.warn(error);
@@ -180,7 +180,7 @@ $("#trump").on("click", function(){
 $("#walker").on("click", function(){
   // console.log(this);
   var data; // a global
-  $('.candidates-nav li.active').removeClass('active');
+  $('.candidates li.active').removeClass('active');
 
   d3.json("/data/walker.json", function(error, json) {
     if (error) return console.warn(error);
