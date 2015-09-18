@@ -2,7 +2,6 @@ $(document).ready(function(){
 
 });
 
-
 var map = new Datamap({
     element: document.getElementById('map'),
     responsive: true,
@@ -21,6 +20,8 @@ window.addEventListener('resize', function() {
   map.resize();
 });
 
+var currentCountries = {};
+
 $("#gop").on("click", function(){
   console.log(this);
   var data; // a global
@@ -31,6 +32,7 @@ $("#gop").on("click", function(){
     console.log(data);
     visualizeit(data, map);
   });
+
 });
 
 $("#bush").on("click", function(){
@@ -62,18 +64,6 @@ $("#christie").on("click", function(){
   var data; // a global
 
   d3.json("/data/christie.json", function(error, json) {
-    if (error) return console.warn(error);
-    data = json;
-    console.log(data);
-    visualizeit(data, map);
-  });
-});
-
-$("#cruz").on("click", function(){
-  console.log(this);
-  var data; // a global
-
-  d3.json("/data/cruz.json", function(error, json) {
     if (error) return console.warn(error);
     data = json;
     console.log(data);
@@ -167,11 +157,27 @@ $("#walker").on("click", function(){
 
 function visualizeit(data, map) {
 
+  resetit(map);
+
   var codes = {};
   for(i = 0; i < data.length; i++) {
     var country = data[i];
     codes[country['code']] = {fillKey: 'authorHasTraveledTo'};
   }
 
+  currentCountries = codes;
+
   map.updateChoropleth(codes);
-}
+
+  console.log(map.options.data);
+};
+
+function resetit(map) {
+
+  _.forEach(currentCountries, function(vaule,key) {
+    currentCountries[key]={fillKey: defaultFill};
+  });
+
+  map.updateChoropleth(codes);
+
+};
