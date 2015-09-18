@@ -1,0 +1,47 @@
+[
+   {"code":"USA"},
+   {
+      "code":"ARE",
+      "country":"United Arab Emirates",
+      "privatepublic":"Private ",
+      "source":"http://www.hoteliermiddleeast.com/20502-billionaire-trump-wants-ryder-cup-in-dubai/"
+   },
+   {
+      "code":"IRL",
+      "country":"Ireland",
+      "privatepublic":"Private",
+      "source":"http://www.irishcentral.com/news/Donald-Trump-pledges-45m-jobs-and-protection-of-snail-to-Ireland.html"
+   },
+   {
+      "country":"Scotland",
+      "code":"GBR",
+      "source":"http://www.thinkathinka.com/donald-trump-is-a-phenomenal-candidate/"
+   },
+   {
+      "code":"TUR",
+      "country":"Turkey",
+      "privatepublic":"Private",
+      "source":"http://www.forbes.com/pictures/eifl45fhhl/the-trump-organization-trump-towers-mall-istanbul/"
+   },
+   {
+      "code":"PAN",
+      "country":"Panama",
+      "privatepublic":"Private",
+      "source":"http://www.globalbeauties.com/blog/2011/07/panama-could-host-miss-universe-2013/"
+   },
+   {
+      "country":"United Kingdom",
+      "code":"GBR",
+      "source":"http://www.theguardian.com/us-news/2015/jul/30/kim-hyo-joo-womens-british-open-donald-trump"
+   },
+   {
+      "country":"Canada",
+      "code":"CAN",
+      "source":"http://www.thestar.com/business/2012/04/17/star_to_donald_trump_was_it_something_we_said.html"
+   },
+   {
+      "country":"India",
+      "code":"IND",
+      "source":"http://www.forbes.com/sites/naazneenkarmali/2014/08/19/donald-trump-descends-on-india/"
+   }
+]

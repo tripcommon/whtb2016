@@ -1,0 +1,31 @@
+[
+   {"code":"USA"},
+   {
+      "date":"2013-01-06T05:00:00.000Z",
+      "country":"Israel",
+      "notes":"Rand Paul Arrived In Israel, And On The Next Day Met With Prime Minister Binyamin Netanyahu, President Shimon Peres And Other Israeli Leaders. \u201cPaul, who arrived in the country on Sunday, met Monday with Prime Minister Binyamin Netanyahu and President Shimon Peres, and with other Israeli leaders and politicians, including Bayit Yehudi leader Naftali Bennett. He will travel to Jordan on Tuesday for meetings with King Abdullah II and Palestinian Authority President Mahmoud Abbas.\u201d [Jerusalem Post, 1/7/13]",
+      "code":"ISR",
+      "source":"http://www.jpost.com/International/Rand-Paul-in-Israel-US-foreign-aid-cant-be-one-way"
+   },
+   {
+      "date":"2013-01-08T05:00:00.000Z",
+      "country":"Jordan",
+      "notes":"Rand Paul Traveled To Jordan To Meet With King Abdullah II And Palestinian Authority President Mahmoud Abbas. \u201cPaul, who arrived in the country on Sunday, met Monday with Prime Minister Binyamin Netanyahu and President Shimon Peres, and with other Israeli leaders and politicians, including Bayit Yehudi leader Naftali Bennett. He will travel to Jordan on Tuesday for meetings with King Abdullah II and Palestinian Authority President Mahmoud Abbas.\u201d [Jerusalem Post, 1/7/13]",
+      "code":"JOR",
+      "source":"http://www.jpost.com/International/Rand-Paul-in-Israel-US-foreign-aid-cant-be-one-way"
+   },
+   {
+      "date":"2014-08-16T04:00:00.000Z",
+      "country":"Guatemala",
+      "notes":"Rand Paul Left For Guatemala Early In The Morning And Spent Three Days In The Town Of Salama Performing Surgeries. \u201cPaul leaves for Guatemala early Saturday morning and will do surgeries in the small city of Salama from Monday through Wednesday. He\u2019ll also meet with Guatemalan officials, including possibly the president, although he said he doesn\u2019t have plans to talk immigration or other specific issues. \u2018I think we\u2019re going to try to keep it more humanitarian,\u2019 Paul said. \u2018I don\u2019t know exactly what is going to come up, but it\u2019s not intended to be any kind of policy discussion.\u2019\u201d [McClatchy, 8/13/14]",
+      "code":"GTM",
+      "source":"http://www.kentucky.com/welcome_page/?shf=/2014/08/13/3378532_rand-paul-heading-to-guatemala.html%3fsp=/99/164/329/"
+   },
+   {
+      "date":"2015-08-16T04:00:00.000Z",
+      "country":"Haiti",
+      "notes":"Rand Paul Arrived In Haiti On The Private Jet Of Republican Donor Gary Heavin. \u201cPaul arrived in Haiti on Sunday aboard the private jet of Republican donor Gary Heavin, the Texas-based founder of the Curves fitness center franchise. He and his wife were at Paul's side for much of the week\u2026 \u2018If I support anyone in the Republican Party, it's him,\u2019 Heavin said in an interview on a bustling street outside the eye clinic. He said he has the capacity to donate more than $10 million and would back Paul if Heavin is \u2018confident in his ability to influence the process.\u2019\u201d [Associated Press, 8/20/15]",
+      "code":"HTI",
+      "source":"http://abcnews.go.com/Politics"
+   }
+]

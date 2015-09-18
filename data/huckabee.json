@@ -1,0 +1,150 @@
+[
+   {"code":"USA"},
+   {
+      "date":"2006-01-22T05:00:00.000Z",
+      "country":"Afghanistan",
+      "notes":"Huckabee Left For Iraq, Kuwait, Afghanistan, Pakistan, And Belgium. \u201cHome from his weeklong visit to the Iraq war zone and other Middle East hot spots, Gov. Rick Perry said Tuesday that he has new respect for the soldiers in harm's way and would support his two college-age children if they enlisted\u2026. Perry, along with Govs. Mike Huckabee of Arkansas, Jim Doyle of Wisconsin and Dave Freudenthal of Wyoming, left Jan. 22 for an unannounced visit to Kuwait, Iraq, Afghanistan, Pakistan and Belgium. The trip, paid for by the Defense Department, was part of an ongoing program to let governors see conditions in the region and boost the morale of service members from their states.\u201d [Fort Worth Star-Telegram, 2/1/06]",
+      "code":"AFG",
+      "source":"Fort Worth Star-Telegram, 2/1/06"
+   },
+   {
+      "date":"2006-01-22T05:00:00.000Z",
+      "country":"Belgium",
+      "notes":"Huckabee Left For Iraq, Kuwait, Afghanistan, Pakistan, And Belgium. \u201cHome from his weeklong visit to the Iraq war zone and other Middle East hot spots, Gov. Rick Perry said Tuesday that he has new respect for the soldiers in harm's way and would support his two college-age children if they enlisted\u2026. Perry, along with Govs. Mike Huckabee of Arkansas, Jim Doyle of Wisconsin and Dave Freudenthal of Wyoming, left Jan. 22 for an unannounced visit to Kuwait, Iraq, Afghanistan, Pakistan and Belgium. The trip, paid for by the Defense Department, was part of an ongoing program to let governors see conditions in the region and boost the morale of service members from their states.\u201d [Fort Worth Star-Telegram, 2/1/06]",
+      "code":"BEL",
+      "source":"Fort Worth Star-Telegram, 2/1/06"
+   },
+   {
+      "date":"2006-04-26T04:00:00.000Z",
+      "country":"Cuba",
+      "notes":"Mike Huckabee Visited Guantanamo Bay. \u201cGov. Mike Huckabee, R-Ark., issued the following column: After I return from visiting with Arkansans serving in the military abroad, I like to mention these men and women by name when writing about my trip. These soldiers have put their lives on hold - and in extreme danger - to serve their country. Their actions deserve praise and notoriety. Following my recent visit to Guantanamo Bay, Cuba, however, I was told that I could not mention the names of the Arkansans I met serving there. These Arkansans, who guard detainees with ties to terrorists, run the risk of retribution from terrorists if their names are mentioned. The U.S. military believes the lives of their family members back home might be in jeopardy if their identities were known.\u201d [Press Release, Governor Mike Huckabee, 4/26/06]",
+      "code":"CUB",
+      "source":"Press Release, Governor Mike Huckabee, 4/26/06"
+   },
+   {
+      "country":"Egypt",
+      "code":"EGY",
+      "source":"http://www.cbsnews.com/news/2016-mike-huckabee-explains-why-he-could-be-the-gop-nominee/"
+   },
+   {
+      "country":"France",
+      "notes":"Huckabee Visited France And Spoke To French CEOs. HUCKABEE: \u201cIt's so strange. I was in France. I was speaking to a group of French CEOs about a year ago. And these were all business people in France. And they pulled me aside. And they said, what your country is doing, you're moving toward a socialist approach to the economy. What are you Americans thinking? We have already tried it. It doesn't work.\u201d [Your World With Neil Cavuto, Fox News, 6/25/10]",
+      "code":"FRA",
+      "source":"Your World With Neil Cavuto, Fox News, 6/25/10"
+   },
+   {
+      "date":"1972-01-01T05:00:00.000Z",
+      "country":"Greece",
+      "notes":"At Age 17 Huckabee Went On A Month-Long Trip That Took Him From Syria To Greece, With A Week In Israel. \u201cHuckabee first visited Israel when he was 17. After high school, he and a friend set out on what now seems to him a \u2018pretty crazy\u2019 adventure for \u2018an untraveled kid from Arkansas\u2019 - a monthlong trip that took him from Syria to Greece, with a week in Israel, which he found utterly \u2018enchanting, inviting, mesmerizing and magnetic.\u2019\u201d [Politico, 2/18/11]",
+      "code":"GRC",
+      "source":"http://www.politico.com/news/stories/0211/49750.html"
+   },
+   {
+      "date":"2002-02-28T05:00:00.000Z",
+      "country":"INDIA",
+      "notes":"Mike Huckabee Traveled To India To Look At A Charity That Operated Orphanages And A Jobs Program For Homeless Women. \u201cGov. Mike Huckabee said Wednesday that, as a lead governor on a welfare reform project, he would travel to India on Thursday to check out a charity that operates orphanages and a jobs program for homeless women. The Global Peace Initiative, an interfaith relief group, invited Huckabee and Gov. Howard Dean of Vermont to witness the group's work.\u201d [Associated Press, 2/27/02] ",
+      "code":"IND",
+      "source":"Associated Press, 2/27/02"
+   },
+   {
+      "date":"2006-01-22T05:00:00.000Z",
+      "country":"Iraq",
+      "notes":"Huckabee Left For Iraq, Kuwait, Afghanistan, Pakistan, And Belgium. \u201cHome from his weeklong visit to the Iraq war zone and other Middle East hot spots, Gov. Rick Perry said Tuesday that he has new respect for the soldiers in harm's way and would support his two college-age children if they enlisted\u2026. Perry, along with Govs. Mike Huckabee of Arkansas, Jim Doyle of Wisconsin and Dave Freudenthal of Wyoming, left Jan. 22 for an unannounced visit to Kuwait, Iraq, Afghanistan, Pakistan and Belgium. The trip, paid for by the Defense Department, was part of an ongoing program to let governors see conditions in the region and boost the morale of service members from their states.\u201d [Fort Worth Star-Telegram, 2/1/06]",
+      "code":"IRQ",
+      "source":"Fort Worth Star-Telegram, 2/1/06"
+   },
+   {
+      "date":"1972-01-01T05:00:00.000Z",
+      "country":"Israel",
+      "notes":"At Age 17 Huckabee Went On A Month-Long Trip That Took Him From Syria To Greece, With A Week In Israel. \u201cHuckabee first visited Israel when he was 17. After high school, he and a friend set out on what now seems to him a \u2018pretty crazy\u2019 adventure for \u2018an untraveled kid from Arkansas\u2019 - a monthlong trip that took him from Syria to Greece, with a week in Israel, which he found utterly \u2018enchanting, inviting, mesmerizing and magnetic.\u2019\u201d [Politico, 2/18/11]",
+      "code":"ISR",
+      "source":"https://www.washingtonpost.com/blogs/right-turn/wp/2014/09/02/mike-huckabee-and-other-evangelicals-rally-for-israel/"
+   },
+   {
+      "date":"2006-06-18T04:00:00.000Z",
+      "country":"Japan",
+      "notes":"Mike Huckabee Went On A Two-Week Trade Mission To Japan, Korea And Taiwan. \u201cHuckabee said Monday his economic development trip to Asia indicates Arkansas is on the short list for Toyota Motor Corp.'s next North American vehicle assembly plant, a list that neighboring Tennessee's governor has said it is also on. Huckabee left Sunday on a nearly two-week trade mission to Japan, Korea and Taiwan, an effort to draw an auto plant and other businesses to the state. Tennessee Gov. Phil Bredesen told the Wall Street Journal recently that his state was on a \u2018relatively short list\u2019 of sites for Toyota's eighth North American plant. Huckabee said through a spokeswoman that his trip, which includes a June 29 reception with officials from Toyota and Hino Corp., shows that the state is still in the running for Toyota's plant.\u201d [Associated Press, 6/20/06]",
+      "code":"JPN",
+      "source":"Associated Press, 6/20/06"
+   },
+   {
+      "country":"Jordan",
+      "code":"JOR",
+      "source":"http://www.cbsnews.com/news/2016-mike-huckabee-explains-why-he-could-be-the-gop-nominee/"
+   },
+   {
+      "date":"2006-01-22T05:00:00.000Z",
+      "country":"Kuwait",
+      "notes":"Huckabee Left For Iraq, Kuwait, Afghanistan, Pakistan, And Belgium. \u201cHome from his weeklong visit to the Iraq war zone and other Middle East hot spots, Gov. Rick Perry said Tuesday that he has new respect for the soldiers in harm's way and would support his two college-age children if they enlisted\u2026. Perry, along with Govs. Mike Huckabee of Arkansas, Jim Doyle of Wisconsin and Dave Freudenthal of Wyoming, left Jan. 22 for an unannounced visit to Kuwait, Iraq, Afghanistan, Pakistan and Belgium. The trip, paid for by the Defense Department, was part of an ongoing program to let governors see conditions in the region and boost the morale of service members from their states.\u201d [Fort Worth Star-Telegram, 2/1/06]",
+      "code":"KWT",
+      "source":"Fort Worth Star-Telegram, 2/1/06"
+   },
+   {
+      "date":"2003-09-28T04:00:00.000Z",
+      "country":"Mexico",
+      "notes":"Huckabee Spent A Week In Mexico On A Trade Mission That Included A Meeting With Mexican President Vicente Fox. \u201cIn the midst of a trade mission to Mexico, Gov. Mike Huckabee said Mexico has dramatically upgraded the quality of its work force and a generation of Arkansans is going to be unable to find decent work if Arkansas doesn't substantially improve its education system\u2026 Huckabee's trip started Sunday with a flight to El Paso, Texas, and Huckabee and members of the council's delegation visited Monday morning with U.S. officials about customs and border protection issues. Among other things, Huckabee is scheduled to meet today with Mexican President Vicente Fox at the presidential palace at Chapultepec. The governor is scheduled to return to Arkansas on Saturday after touring the pyramids of Teotihuacan on Friday.\u201d [Arkansas Democrat-Gazette, 10/3/3] ",
+      "code":"MEX",
+      "source":"Arkansas Democrat-Gazette, 10/3/3"
+   },
+   {
+      "date":"2006-01-22T05:00:00.000Z",
+      "country":"Pakistan",
+      "notes":"Huckabee Left For Iraq, Kuwait, Afghanistan, Pakistan, And Belgium. \u201cHome from his weeklong visit to the Iraq war zone and other Middle East hot spots, Gov. Rick Perry said Tuesday that he has new respect for the soldiers in harm's way and would support his two college-age children if they enlisted\u2026. Perry, along with Govs. Mike Huckabee of Arkansas, Jim Doyle of Wisconsin and Dave Freudenthal of Wyoming, left Jan. 22 for an unannounced visit to Kuwait, Iraq, Afghanistan, Pakistan and Belgium. The trip, paid for by the Defense Department, was part of an ongoing program to let governors see conditions in the region and boost the morale of service members from their states.\u201d [Fort Worth Star-Telegram, 2/1/06]",
+      "code":"PAK",
+      "source":"Fort Worth Star-Telegram, 2/1/06"
+   },
+   {
+      "country":"Pakistan",
+      "code":"PAK",
+      "source":"http://www.cbsnews.com/news/2016-mike-huckabee-explains-why-he-could-be-the-gop-nominee/"
+   },
+   {
+      "date":"2008-07-27T04:00:00.000Z",
+      "country":"RWANDA",
+      "notes":"Huckabee Spent A Week In Rwanda To Learn About Antipoverty Initiatives. \u201cMike Huckabee on Saturday said Barack Obama wrongly seeks a \"mushy, middle-of-the-ground, milquetoast\" foreign policy that would weaken the United States. Fresh off his own trip abroad, the former Arkansas governor used several party-line complaints to encourage state Republicans to work for John McCain's presidential election and against the Illinois Democrat\u2026 Huckabee last week returned from a week-long trip to Rwanda with political shakers - including former Democratic Sen. Tom Daschle and McCain's wife, Cindy. The group learned about antipoverty efforts there.\u201d [Arkansas Democrat-Gazette, 7/27/08]",
+      "code":"RWA",
+      "source":"Arkansas Democrat-Gazette, 7/27/08"
+   },
+   {
+      "country":"Saudi Arabiua",
+      "code":"SAU",
+      "source":"http://www.cbsnews.com/news/2016-mike-huckabee-explains-why-he-could-be-the-gop-nominee/"
+   },
+   {
+      "date":"2006-06-18T04:00:00.000Z",
+      "country":"South Korea",
+      "notes":"Mike Huckabee Went On A Two-Week Trade Mission To Japan, Korea And Taiwan. \u201cHuckabee said Monday his economic development trip to Asia indicates Arkansas is on the short list for Toyota Motor Corp.'s next North American vehicle assembly plant, a list that neighboring Tennessee's governor has said it is also on. Huckabee left Sunday on a nearly two-week trade mission to Japan, Korea and Taiwan, an effort to draw an auto plant and other businesses to the state. Tennessee Gov. Phil Bredesen told the Wall Street Journal recently that his state was on a \u2018relatively short list\u2019 of sites for Toyota's eighth North American plant. Huckabee said through a spokeswoman that his trip, which includes a June 29 reception with officials from Toyota and Hino Corp., shows that the state is still in the running for Toyota's plant.\u201d [Associated Press, 6/20/06]",
+      "code":"KOR",
+      "source":"Associated Press, 6/20/06"
+   },
+   {
+      "date":"1972-01-01T05:00:00.000Z",
+      "country":"Syria",
+      "notes":"At Age 17 Huckabee Went On A Month-Long Trip That Took Him From Syria To Greece, With A Week In Israel. \u201cHuckabee first visited Israel when he was 17. After high school, he and a friend set out on what now seems to him a \u2018pretty crazy\u2019 adventure for \u2018an untraveled kid from Arkansas\u2019 - a monthlong trip that took him from Syria to Greece, with a week in Israel, which he found utterly \u2018enchanting, inviting, mesmerizing and magnetic.\u2019\u201d [Politico, 2/18/11]",
+      "code":"SYR",
+      "source":"http://www.politico.com/news/stories/0211/49750.html"
+   },
+   {
+      "date":"2004-03-12T05:00:00.000Z",
+      "country":"Taiwan",
+      "notes":"Huckabee Went To Japan And Taiwan To Promote Arkansas To Japanese Companies. \u201cGov. Mike Huckabee will lead an Arkansas contingent to Japan and Taiwan to promote Arkansas to business and government authorities. On the nine-day trip that begins Friday, Huckabee will visit executives of seven Japanese companies - including Toyota Motor Corp. - and two Taiwanese companies. Last year, Toyota came close to selecting a site near Marion for a manufacturing plant but eventually chose San Antonio. The primary purposes of the trip, Huckabee said Tuesday, are to \u2018further strengthen our existing relationships with companies in Taiwan and Japan\u2019 and to \u2018develop new opportunities both for import and export.\u2019\" [Arkansas Democrat-Gazette, 3/10/04]",
+      "code":"TWN",
+      "source":"Arkansas Democrat-Gazette, 3/10/04"
+   },
+   {
+      "country":"Turkey",
+      "code":"TUR",
+      "source":"http://www.cbsnews.com/news/2016-mike-huckabee-explains-why-he-could-be-the-gop-nominee/"
+   },
+   {
+      "country":"UAE",
+      "code":"ARE",
+      "source":"http://www.cbsnews.com/news/2016-mike-huckabee-explains-why-he-could-be-the-gop-nominee/"
+   },
+   {
+      "country":"Lebanon",
+      "notes":"You know, most governors have more experience than people realize. I mean, I've traveled to nearly 40 countries. I've dealt with not only multinational trade agreements with corporations but also with heads of state. So it's not that uncommon for governors to do trade missions and to engage in conversations with, both from a diplomatic perspective as well as a trade and cultural exchange perspective, with people across the globe, whether it's in Asia, the Middle East where I've traveled extensively. I've been to virtually every country in the Middle East, including Iraq and Afghanistan and Kuwait and Israel and Lebanon and even Syria and a host of countries over the course of my lifetime.'",
+      "code":"LBN",
+      "source":"http://www.cbsnews.com/htdocs/pdf/face_111107.pdf"
+   }
+]

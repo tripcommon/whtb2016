@@ -1,0 +1,66 @@
+[
+   {"code":"USA"},
+   {
+      "date":"2012-09-04T04:00:00.000Z",
+      "country":"Kosovo",
+      "notes":"Walker Traveled To Kosovo To Visit Wisconsin Army National Guard Soldiers. \u201cGov. Scott Walker quietly traveled to Kosovo this week to visit Wisconsin Army National Guard soldiers. The governor's office says he departed Tuesday and was expected to return to the state early Friday morning. Walker spokeswoman Jocelyn Webster says the governor spent about 30 hours in the country visiting with soldiers from West Bend-based Company F, 2nd Battalion, 238th Aviation Regiment and Detachment 1, Company B, 248th Aviation Support Battalion. The troops spent close to a year in Kosovo supporting a NATO peace-keeping mission. Webster says the units are due to return to Wisconsin next week.\u201d [Associated Press, 9/6/12] ",
+      "code":"UNK",
+      "source":"Associated Press, 9/6/12"
+   },
+   {
+      "date":"2013-04-21T04:00:00.000Z",
+      "country":"China",
+      "notes":"Walker Led A 10-Day Trade Mission To China And Stopped In Beijing, Shanghai And Harbin. \u201cGov. Scott Walker will lead a trade mission to China starting Friday, and he won't be alone among governors pitching their states' companies there \u2026 The trip, which ends April 21, will include stops in Beijing, Shanghai and Harbin.\u201d [Milwaukee Journal Sentinel, 4/10/13]",
+      "code":"CHN",
+      "source":"Milwaukee Journal Sentinel, 4/10/13"
+   },
+   {
+      "date":"2013-09-08T04:00:00.000Z",
+      "country":"Japan",
+      "notes":"Walker Went To Japan For The Midwest U.S.-Japan Association Conference. \u201cGovernor Scott Walker is attending the Midwest U.S.\u2013Japan Association Conference to build trade ties between Wisconsin and Japan.  The annual conference began Sunday, September 8, and runs through Tuesday, September 10.\u201d [Press Release, Office of Governor Walker, 9/9/13]",
+      "code":"JPN",
+      "source":"Press Release, Office of Governor Walker, 9/9/13"
+   },
+   {
+      "date":"2015-02-09T05:00:00.000Z",
+      "country":"United Kingdom",
+      "notes":"Walker Went On A Trade Mission To London. \u201cGovernor Scott Walker will lead a trade mission of economic development officials to London in February as part of the state\u2019s efforts to encourage companies in the United Kingdom to invest in Wisconsin \u2026 The trip, which will take place from February 9th to 13th, will focus solely on attracting foreign direct investment to Wisconsin.\u201d [WITI Fox 6, 1/21/15]",
+      "code":"GBR",
+      "source":"http://fox6now.com/2015/01/21/governor-scott-walker-to-lead-trade-mission-to-united-kingdom-in-february/"
+   },
+   {
+      "date":"2015-04-12T04:00:00.000Z",
+      "country":"Germany",
+      "notes":"Scott Walker Went On A Week-Long Trip To Germany, France And Spain On A Trade Mission. \u201cWisconsin Gov. Scott Walker is becoming something of a globe-trotter as world affairs loom large in the 2016 Republican presidential race and attention has been drawn to his early foreign policy stumbles. He's off Friday on a week-long visit to Germany, France and Spain, and in May plans to go to Israel, a touchstone for many U.S. politicians with presidential aspirations\u2026 Walker's trip to Europe is a trade mission, with two public events planned in Germany and the rest of his meetings behind closed doors.\u201d [Associated Press, 4/10/15] ",
+      "code":"DEU",
+      "source":"Associated Press, 4/10/15"
+   },
+   {
+      "date":"2015-04-12T04:00:00.000Z",
+      "country":"France",
+      "notes":"Scott Walker Went On A Week-Long Trip To Germany, France And Spain On A Trade Mission. \u201cWisconsin Gov. Scott Walker is becoming something of a globe-trotter as world affairs loom large in the 2016 Republican presidential race and attention has been drawn to his early foreign policy stumbles. He's off Friday on a week-long visit to Germany, France and Spain, and in May plans to go to Israel, a touchstone for many U.S. politicians with presidential aspirations\u2026 Walker's trip to Europe is a trade mission, with two public events planned in Germany and the rest of his meetings behind closed doors.\u201d [Associated Press, 4/10/15] ",
+      "code":"FRA",
+      "source":"Associated Press, 4/10/15"
+   },
+   {
+      "date":"2015-04-12T04:00:00.000Z",
+      "country":"Spain",
+      "notes":"Scott Walker Went On A Week-Long Trip To Germany, France And Spain On A Trade Mission. \u201cWisconsin Gov. Scott Walker is becoming something of a globe-trotter as world affairs loom large in the 2016 Republican presidential race and attention has been drawn to his early foreign policy stumbles. He's off Friday on a week-long visit to Germany, France and Spain, and in May plans to go to Israel, a touchstone for many U.S. politicians with presidential aspirations\u2026 Walker's trip to Europe is a trade mission, with two public events planned in Germany and the rest of his meetings behind closed doors.\u201d [Associated Press, 4/10/15] ",
+      "code":"ESP",
+      "source":"Associated Press, 4/10/15"
+   },
+   {
+      "date":"2015-05-10T04:00:00.000Z",
+      "country":"Israel",
+      "notes":"Scott Walker Visited Israel. \u201cGov. Scott Walker visited Jerusalem Sunday on the first day of his five-day trip to Israel and was photographed standing near the Western Wall. Republican Jewish Coalition Executive Director Matt Brooks tweeted a photo of Walker clad in a yarmulke, the traditional Jewish head covering for males, and blue polo shirt near the Western Wall, which is considered the holiest place for Judaism. Also known as the Wailing Wall or Kotel, it's a place many Muslims, Christians and Jews visit in Israel.\u201d [Milwaukee Journal Sentinel, 5/11/15]",
+      "code":"ISR",
+      "source":"http://www.jsonline.com/business/scott-walker-visits-western-wall-during-israel-trip-b99497569z1-303232901.html"
+   },
+   {
+      "date":"2015-06-12T04:00:00.000Z",
+      "country":"Canada",
+      "notes":"Walker Went To Canada For A Trade Mission. \u201cDuring the mission, which runs from June 12-17, Governor Walker and representatives of the Wisconsin Economic Development Corporation (WEDC) will talk to leaders at select Canadian companies about establishing new operations in Wisconsin.\u201d [Press Release, Office of Governor Walker, 6/2/15] ",
+      "code":"CAN",
+      "source":"http://inwisconsin.com/press_releases/canada-trade-mission/"
+   }
+]
